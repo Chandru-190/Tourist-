@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body div{
+    margin-left: 50px;
+}
+div .section1 {
+    margin-left: 500px;
+    margin-top: 100px;
+}
+div h4 .section2 .section3{
+    margin-left: 500px;
+}
+h1{
+    margin-left: 100px;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    margin-left: 100px;
+    margin-top: 20px;
+  
+}
+b{
+    font-size: large;
+}
+a{
+    color:crimson;
+}
+.sec4 ul li{
+    margin-left: 130px;
+    margin-top: 10px;
+    }
+div .sec4{
+    margin-left: 40%;
+}
+div h1, h4{
+    margin left: 500px;
+     }
+.section3 {
+    margin-left: 300px;
+    margin-top: 10px;
+}
+div a{
+    margin-top: 50%;
+}
+bottom{
+    margin-left: 500px;
+    font-size:larger;
+}
+div{
+    margin-left: 500px;
+}
